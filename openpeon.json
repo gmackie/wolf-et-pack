@@ -13,12 +13,12 @@
   "categories": {
     "session.start": {
       "sounds": [
-        { "file": "sounds/start/news_battery.wav", "label": "Battery briefing", "sha256": "8be9788433fa8a6a168a9a72dac1396350852d7372f94a319e06fd9e7e05a354" },
-        { "file": "sounds/start/news_fueldump.wav", "label": "Fuel Dump briefing", "sha256": "747e4dc007b5b67bedf87cc2de336cbf6910c4b3bb3cd59a1cc58bc310530652" },
-        { "file": "sounds/start/news_goldrush.wav", "label": "Gold Rush briefing", "sha256": "addc2a3b36b450cdf48737e56043911392b0600d5943a53628832e44cef08e9e" },
-        { "file": "sounds/start/news_oasis.wav", "label": "Oasis briefing", "sha256": "3e1cb95c19b639f6bfebca52e6de09bc0b6e7371daa7e832ce3ac2b0d322b6de" },
-        { "file": "sounds/start/news_radar.wav", "label": "Radar briefing", "sha256": "b6e67bd009d9141250abf0a7ee3306d3eee205730df5870047b61ad37ee606ec" },
-        { "file": "sounds/start/news_railgun.wav", "label": "Railgun briefing", "sha256": "70856565d6a650971b3b12a8f9de6c744ab039acc5d884f7b8f4122227777126" },
+        { "file": "sounds/start/news_battery.wav", "label": "Battery briefing", "sha256": "e658df308279aa2dc35e503edee3006c489339ec589175b9cf5c7b71bde150a6" },
+        { "file": "sounds/start/news_fueldump.wav", "label": "Fuel Dump briefing", "sha256": "4fbb4118d8d54267b6988dceae90ff0ff6fad3608bb16f4b4cefb733207f18ce" },
+        { "file": "sounds/start/news_goldrush.wav", "label": "Gold Rush briefing", "sha256": "a544ac4e18c822fc590f3cc3804d2d4b503509e883b20c07122cb0ca870881fb" },
+        { "file": "sounds/start/news_oasis.wav", "label": "Oasis briefing", "sha256": "fe59b8b0a9b19188711677e1b7e324b14df4999607c75f40992fd2341768c46c" },
+        { "file": "sounds/start/news_radar.wav", "label": "Radar briefing", "sha256": "2405c5a84e450f92f51ffbcfa9d1fab6ccf541d0e8c18c8547080bebfd2e83e9" },
+        { "file": "sounds/start/news_railgun.wav", "label": "Railgun briefing", "sha256": "6247ec973ee2c6c834ee42520c558135d6c43434a93877636cf904925016c9fb" },
         { "file": "sounds/start/54a.wav", "label": "Start 1", "sha256": "9ffe5fdadb4c2d4e2ac2c63bc435b2f62b4610aaf3c450cf1015d499dc5ef0d8" },
         { "file": "sounds/start/54a1.wav", "label": "Start 1 alt", "sha256": "0fcf8eb84ed5242897bf288d07aa76f16e0409e31b5bceec1717b91612c1d034" },
         { "file": "sounds/start/54b.wav", "label": "Start 2", "sha256": "d78e43fcccc1749f52cf65b7245649061274dff8dc34c6ed073d66bcdee5216f" },
